@@ -48,7 +48,7 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-
+<img src="images/login.png">
 <img src="images/dashboard.png">
 <img src="images/my-profile.png">
 <img src="images/time-sheet.png">
