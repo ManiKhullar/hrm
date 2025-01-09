@@ -1,0 +1,6 @@
+[06-Oct-2023 09:37:36 UTC] PHP Fatal error:  Cannot use App\Models\EmpPerAddress as EmpPerAddress because the name is already in use in /home2/mybluethink/public_html/app/Http/Controllers/EmployeeController.php on line 16
+[06-Oct-2023 09:38:01 UTC] PHP Fatal error:  Cannot use App\Models\EmpPerAddress as EmpPerAddress because the name is already in use in /home2/mybluethink/public_html/app/Http/Controllers/EmployeeController.php on line 16
+[06-Oct-2023 12:44:40 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home2/mybluethink/public_html/app/Http/Controllers/EmployeeController.php on line 334
+[06-Oct-2023 12:45:30 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home2/mybluethink/public_html/app/Http/Controllers/EmployeeController.php on line 334
+[06-Oct-2023 12:45:37 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home2/mybluethink/public_html/app/Http/Controllers/EmployeeController.php on line 334
+[06-Oct-2023 12:47:33 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home2/mybluethink/public_html/app/Http/Controllers/EmployeeController.php on line 334
